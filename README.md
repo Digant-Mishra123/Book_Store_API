@@ -17,8 +17,8 @@ The Book Store API provides functionality for managing books with key features:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/dibya47/Book-Store-API.git
-   cd Book-Store-API
+   git clone https://github.com/Digant-Mishra123/Book_Store_API.git
+   cd Book_Store_API
    ```
 
 2. **Install Dependencies**:
